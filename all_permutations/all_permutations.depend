@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383639999 source:c:\users\livio\documents\my documents\programming\c++\all_permutations\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

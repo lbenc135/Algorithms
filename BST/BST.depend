@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411724151 source:c:\users\livio\documents\my documents\programming\c++\1algorithms\bst\main.cpp
+	<iostream>
+	<cstdlib>
+

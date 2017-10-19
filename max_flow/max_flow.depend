@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426256593 source:c:\users\livio\documents\my documents\programming\c++\drzavno_practice\max_flow\main.cpp
+	<cstdio>
+	<stack>
+	<algorithm>
+

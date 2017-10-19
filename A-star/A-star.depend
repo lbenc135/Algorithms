@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1379149907 source:c:\users\tiger\documents\my documents\programming\c++\a-star\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<ctime>
+
+1379329605 source:c:\users\tiger\desktop\a-star\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<ctime>
+
+1410873940 source:c:\users\livio\documents\my documents\programming\c++\a-star\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<ctime>
+	<cstdlib>
+

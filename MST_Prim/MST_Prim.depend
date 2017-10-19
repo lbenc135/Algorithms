@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1394796707 source:c:\users\livio\documents\my documents\programming\c++\mst_prim\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<queue>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1426238362 source:c:\users\livio\documents\my documents\programming\c++\drzavno_practice\dijkstra\main.cpp
+	<cstdio>
+	<queue>
+	<algorithm>
+	<vector>
+

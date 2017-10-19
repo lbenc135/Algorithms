@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1394814624 source:c:\users\livio\documents\my documents\programming\c++\closest_pair\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<cmath>
+	<algorithm>
+
+1409818510 source:c:\users\livio\documents\my documents\programming\c++\1algorithms\closest_pair\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<cmath>
+	<algorithm>
+

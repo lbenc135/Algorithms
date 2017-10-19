@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1413460377 source:c:\users\livio\documents\my documents\programming\c++\1algorithms\logaritamska(fenwick)\main.cpp
+	<cstdio>
+	<cstring>
+	<utility>
+	<algorithm>
+

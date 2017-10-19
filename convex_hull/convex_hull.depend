@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1418413157 source:c:\users\mis21\desktop\convex_hull\main.cpp
+	<cstdio>
+	<stack>
+	<cmath>
+	<algorithm>
+
+1426166914 source:c:\users\livio\documents\my documents\programming\c++\1algorithms\convex_hull\main.cpp
+	<cstdio>
+	<list>
+	<cmath>
+	<cstring>
+	<algorithm>
+
